@@ -5,11 +5,12 @@
 **$demography <State>**
 
 ![Ethnicity](/images/ethicity_group.png)
+![Income](/images/incomevsexpenditure.png)
+![Age Group](/images/age_group.png)
+![Poverty](/images/poverty.png)
 
-![GitHub Logo](/images/incomevsexpenditure.png)
-![GitHub Logo](/images/age_group.png)
-![GitHub Logo](/images/poverty.png)
-
+**$marketsummary**
+![Summary](/images/summary.png)
 
 **List of bot commands:**
 
