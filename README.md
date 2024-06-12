@@ -3,13 +3,21 @@
 **Relating for my passion in data, interacted with DOSM dataset using parquet requests to get visualize and come out with several charts for market study**
 
 **List of bot commands: **
+
 $hello - Say hello to the bot
+
 $greet - Greet the bot
+
 $echo - Repeat the user's message
+
 $quote - Get a random quote
-$weather - Get the current weathe
+
+$weather - Get the current weather
+
 $malaysia_news - Get the latest malaysian news
+
 $news [user input] - Get the latest news
+
 $bitcoin - Get the current price of bitcoin
 $crypro [user input] - Get the current price of cryptocurrency (must be crypto name)
 $s&p - Get the current price of S&P 500
