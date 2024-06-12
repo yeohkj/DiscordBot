@@ -12,7 +12,17 @@
 **$marketsummary**
 ![Summary](/images/summary.png)
 
-**List of bot commands:**
+**$correlation**
+![Summary](/images/correlation.png)
+
+**$clustering**
+![Profile](/images/cluster_profiles.png)
+![Summary](/images/cluster_summary.png)
+
+**$clustersummary  (Use tables from clustering to get out slides as below**
+![Summary](/images/cluster_summary.png)
+
+**Full list of bot commands:**
 
 $hello - Say hello to the bot
 
