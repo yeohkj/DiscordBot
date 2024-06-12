@@ -19,7 +19,7 @@
 ![Profile](/images/cluster_profiles.png)
 ![Summary](/images/final_df_with_clusters.png)
 
-**$clustersummary  (Use tables from clustering to get out slides as below**
+**$clustersummary  (Use tables from clustering to get out slides as below)**
 ![Summary](/images/cluster_summary.png)
 
 **Full list of bot commands:**
