@@ -2,6 +2,15 @@
 
 **Relating for my passion in data, interacted with DOSM dataset using parquet requests to get visualize and come out with several charts for market study**
 
+**$demography <State>**
+
+![Ethnicity](/images/ethicity_group.png)
+
+![GitHub Logo](/images/incomevsexpenditure.png)
+![GitHub Logo](/images/age_group.png)
+![GitHub Logo](/images/poverty.png)
+
+
 **List of bot commands:**
 
 $hello - Say hello to the bot
